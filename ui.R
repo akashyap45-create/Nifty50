@@ -1,4 +1,5 @@
 # ui.R
+source("dependencies.R")
 library(shiny)
 library(shinydashboard)
 
